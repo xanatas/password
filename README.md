@@ -1,5 +1,7 @@
 A memorable password generator for Node.js
 ==========================================
+###Clean Version
+- words are screened for "pen**" and such.
 
 `password` is a simple server-side memorable password generator for Node.js
 

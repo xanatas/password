@@ -1,25 +1,25 @@
 {
-  "name": "password",
-  "version": "0.1.1",
-  "description": "Memorable passwords generator",
+  "name": "password-xan",
+  "version": "0.1.2",
+  "description": "Memorable passwords generator - clean word list",
   "license": "UNLICENSE",
   "keywords": [
     "password",
     "generator"
   ],
   "author": {
-    "name": "Stephane Alnet",
+    "name": "Philip Scigala",
     "email": "stephane@shimaore.net"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shimaore/password.git"
+    "url": "https://github.com/xanatas/password.git"
   },
-  "homepage": "https://github.com/shimaore/password",
+  "homepage": "https://github.com/xanatas/password",
   "main": "lib/password.js",
   "files": [
     "lib/password.js",
-    "lib/wordlist.json"
+    "lib/wordlist2.json"
   ],
   "scripts": {
     "prepublish": "coffee -c lib/password.coffee",
