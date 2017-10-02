@@ -1,4 +1,4 @@
-{wordlist} = require './wordlist.json'
+{wordlist} = require './wordlist2.json'
 
 module.exports = (l) ->
   return '' if l < 1
