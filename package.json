@@ -1,7 +1,7 @@
 {
   "name": "password-xan",
-  "version": "0.1.5",
-  "description": "Memorable passwords generator - clean word list",
+  "version": "0.1.6",
+  "description": "Memorable passwords generator - cleaner word list",
   "license": "UNLICENSE",
   "keywords": [
     "password",
